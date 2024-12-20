@@ -1,0 +1,54 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="16">
+            <item index="0" class="java.lang.String" itemvalue="datepicker" />
+            <item index="1" class="java.lang.String" itemvalue="datepicker-orientation" />
+            <item index="2" class="java.lang.String" itemvalue="hx-redirect" />
+            <item index="3" class="java.lang.String" itemvalue="hx-post" />
+            <item index="4" class="java.lang.String" itemvalue="hx-swap" />
+            <item index="5" class="java.lang.String" itemvalue="hx-vals" />
+            <item index="6" class="java.lang.String" itemvalue="hx-target" />
+            <item index="7" class="java.lang.String" itemvalue="hx-get" />
+            <item index="8" class="java.lang.String" itemvalue="hx-trigger" />
+            <item index="9" class="java.lang.String" itemvalue="hx-include" />
+            <item index="10" class="java.lang.String" itemvalue="hx-params" />
+            <item index="11" class="java.lang.String" itemvalue="date-item-id" />
+            <item index="12" class="java.lang.String" itemvalue="datepicker-autoselect-today" />
+            <item index="13" class="java.lang.String" itemvalue="inline-datepicker" />
+            <item index="14" class="java.lang.String" itemvalue="datepicker-autohide" />
+            <item index="15" class="java.lang.String" itemvalue="datepicker-buttons" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="8">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="div" />
+            <item index="7" class="java.lang.String" itemvalue="data-action-button" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="str.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
